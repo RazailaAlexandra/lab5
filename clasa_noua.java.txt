@@ -1,0 +1,7 @@
+public class ana
+{
+private int a;
+public ana(int a){
+this.a=a;
+}
+}
